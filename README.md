@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on des projets de développement de plateforme logistiques et tout projet de développement web en vue d'apporter mon aide et d'accroitre mes compétences
 - 📫 How to reach me ...
 - 😄 Pronouns: "Tu"
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Death Before Deshonor
 
 <!---
 AGBOWAI/AGBOWAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
